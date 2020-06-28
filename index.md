@@ -2,7 +2,7 @@
 # Brave
 
  Here is my :rocket: and 
- here is my :aerial_tramway: and 
+ here is my :aerial_tramway: and here is my 🗼
 
  here is my Brave :lion: 
 
