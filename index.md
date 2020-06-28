@@ -17,3 +17,11 @@ GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrrrrrrr GRRRRRRRRRRRRRRRRRRRRRRRRRR
 * He will give you privacy
 * He will make sure nobody disturb you with adds
 * HE will keep hackers away from your computer with GGGRRRRRRRRRRR
+
+
+
+
+
+As the Brave LION one time said:
+> Keep bad and good people away of your computer
+> Your secrets are your only Bussiness
