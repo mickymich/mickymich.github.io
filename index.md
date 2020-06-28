@@ -1,10 +1,10 @@
 
 # Brave
 
- :rocket: 
- :aerial_tramway: 
+ Here is my :rocket: and 
+ here is my :aerial_tramway: and 
 
- :lion: 
+ here is my Brave :lion: 
 
 A magic Browser for my favourite Movie is currently being built here!
 If you want to learn about my Movie Browser you can click on this link [Brave](https://brave.com/?ref=sma268)
