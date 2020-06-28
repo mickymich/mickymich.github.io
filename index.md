@@ -6,6 +6,12 @@ document.getElementById("demo").innerHTML = d;
 }
 ```
 
+```javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+```
+
 # Brave
 
 :rocket: 
