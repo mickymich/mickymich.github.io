@@ -25,3 +25,7 @@ GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrrrrrrr GRRRRRRRRRRRRRRRRRRRRRRRRRR
 As the Brave LION one time said:
 > Keep bad and good people away of your computer
 > Your secrets are your only Bussiness
+
+
+<img src="https://brave.com/wp-content/uploads/2018/02/brave_logo_2color_reversed.svg"/>
+
