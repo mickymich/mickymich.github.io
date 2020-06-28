@@ -11,8 +11,8 @@ GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrrrrrrr GRRRRRRRRRRRRRRRRRRRRRRRRRR
 GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrrrrrrr GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrrrrrrr
 GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrrrrrrr GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrrrrrrr
 
-## Characteristics
-He is safe in the internet
-He make you feel safety in the internet
-He will give you privacy
-He will make sure nobody disturb you with adds
+## Characteristics of my BRAVE LION
+## He is safe in the internet
+## He make you feel safety in the internet
+## He will give you privacy
+## He will make sure nobody disturb you with adds
