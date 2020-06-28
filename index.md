@@ -1,10 +1,10 @@
 
 # Brave
 
- Here is my :rocket: and 
- here is my :aerial_tramway: and here is my 🗼
+ Here is my 🚀 and 
+ here is my 🚡 and here is my 🗼
 
- here is my Brave :lion: 
+ here is my Brave 🦁 
 
 A magic Browser for my favourite Movie is currently being built here!
 If you want to learn about my Movie Browser you can click on this link [Brave](https://brave.com/?ref=sma268)
@@ -17,9 +17,9 @@ GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrrrrrrr GRRRRRRRRRRRRRRRRRRRRRRRRRR
 GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrrrrrrr GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrrrrrrr
 GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrrrrrrr GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrrrrrrr
 
-:lion:
+🦁
 
-:lion:
+🦁
 
 ## Characteristics of my BRAVE LION
 * He is safe in the internet
@@ -28,7 +28,7 @@ GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrrrrrrr GRRRRRRRRRRRRRRRRRRRRRRRRRR
 * He will make sure nobody disturb you with adds
 * HE will keep hackers away from your computer with GGGRRRRRRRRRRR
 
-:lion:
+🦁
 
 
 
